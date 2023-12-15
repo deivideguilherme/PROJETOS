@@ -10,7 +10,7 @@ body {
 }
 
 .menu-primario {
-    max-width: 100%;
+    width: 100%;
     background-color: #252323;
     height: 60px;
 }
@@ -20,6 +20,8 @@ header {
     height: 84px;
     background-color: #FFFFFF;
     display: inline-block;
+    border: 1;
+    border-color: black;
 }
 
 a {
