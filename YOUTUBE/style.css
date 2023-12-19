@@ -44,9 +44,17 @@ main {
 }
 
 /*Estilizando Menu principal*/
-header ul li{
+header {
     display: inline-block;
+}
+
+.menu-principal ul li{
+    display: inline-block;
+    width: 100%;
     list-style: none;
+    margin-left: 204px;
+    text-decoration: none;
+
 }
 
 input {
